@@ -31,7 +31,7 @@ fn main() {
             println!("{}", line);
         }
     } else {
-        // $B%U%!%$%k$r;XDj$7$J$+$C$?>l9g(B
+        // ファイルを指定しなかった場合
         println!("No file is specified");
     }
 }
